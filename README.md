@@ -30,4 +30,4 @@ Ele foi desenvolvido para simplificar tarefas repetitivas, como copiar manualmen
 1. Clone este repositório:
    ```bash
    git clone https://github.com/RodrigoFariassilva/email-data-extractor.git
-   cd email-to-excel
+   cd email-data-extractor
